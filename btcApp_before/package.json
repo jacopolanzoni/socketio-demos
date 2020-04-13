@@ -1,7 +1,10 @@
 {
   "name": "starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bitcoin price demo",
+  "repository": {
+    "url": "https://github.com/jacopolanzoni/socketio-demos"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
